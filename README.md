@@ -114,7 +114,7 @@ In addition to individual models, ensemble methods such as stacking and voting w
 ### Final Model Deployment
 The final stacked model was saved using the pickle module, making it ready for deployment. This current model is just a prototype and needs more work before it can actually be used in a real-world clinical setting.
 
-# Conclusions
+## Conclusions
 The analysis provides actionable insights for healthcare providers:
 1. **Targeted Interventions**: By identifying high-risk individuals based on key predictors, healthcare providers can implement personalized interventions, such as exercise programs and regular health check-ups.
 2. **Resource Allocation**: Predictive models can help allocate healthcare resources more effectively, focusing on high-risk patients and potentially reducing hospital admissions and treatment costs.
