@@ -4,7 +4,7 @@ import gzip
 import numpy as np
 
 # Compressed model file
-compressed_model_filename = 'c:/Users/James/OneDrive/Documents/Flatiron/Final_project/Heart_Disease_Prediction/final_stacked_model.pkl.gz'
+compressed_model_filename = 'final_stacked_model.pkl.gz'
 
 # Load the compressed model
 with gzip.open(compressed_model_filename, 'rb') as file:
